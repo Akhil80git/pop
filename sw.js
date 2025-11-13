@@ -4,7 +4,7 @@ const OFFLINE_URL = 'index.html';
 const PRECACHE_ASSETS = [
   '/',
   '/index.html',
-  '/style.css',
+ 
   '/main.js',
   '/manifest.json',
   '/img/192x192.png'
