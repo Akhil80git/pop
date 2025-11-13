@@ -1,4 +1,4 @@
-const CACHE_NAME = 'carzone-cache-v1';
+const CACHE_NAME = 'Warzone-cache-v1';
 const OFFLINE_URL = 'index.html';
 
 const PRECACHE_ASSETS = [
